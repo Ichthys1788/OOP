@@ -1,0 +1,15 @@
+C:\Users\David Trusty\source\repos\C code\OOP\Assemply\bin\Debug\net6.0\Assemply.exe
+C:\Users\David Trusty\source\repos\C code\OOP\Assemply\bin\Debug\net6.0\Assemply.deps.json
+C:\Users\David Trusty\source\repos\C code\OOP\Assemply\bin\Debug\net6.0\Assemply.runtimeconfig.json
+C:\Users\David Trusty\source\repos\C code\OOP\Assemply\bin\Debug\net6.0\Assemply.dll
+C:\Users\David Trusty\source\repos\C code\OOP\Assemply\bin\Debug\net6.0\Assemply.pdb
+C:\Users\David Trusty\source\repos\C code\OOP\Assemply\obj\Debug\net6.0\Assemply.csproj.AssemblyReference.cache
+C:\Users\David Trusty\source\repos\C code\OOP\Assemply\obj\Debug\net6.0\Assemply.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Trusty\source\repos\C code\OOP\Assemply\obj\Debug\net6.0\Assemply.AssemblyInfoInputs.cache
+C:\Users\David Trusty\source\repos\C code\OOP\Assemply\obj\Debug\net6.0\Assemply.AssemblyInfo.cs
+C:\Users\David Trusty\source\repos\C code\OOP\Assemply\obj\Debug\net6.0\Assemply.csproj.CoreCompileInputs.cache
+C:\Users\David Trusty\source\repos\C code\OOP\Assemply\obj\Debug\net6.0\Assemply.dll
+C:\Users\David Trusty\source\repos\C code\OOP\Assemply\obj\Debug\net6.0\refint\Assemply.dll
+C:\Users\David Trusty\source\repos\C code\OOP\Assemply\obj\Debug\net6.0\Assemply.pdb
+C:\Users\David Trusty\source\repos\C code\OOP\Assemply\obj\Debug\net6.0\Assemply.genruntimeconfig.cache
+C:\Users\David Trusty\source\repos\C code\OOP\Assemply\obj\Debug\net6.0\ref\Assemply.dll

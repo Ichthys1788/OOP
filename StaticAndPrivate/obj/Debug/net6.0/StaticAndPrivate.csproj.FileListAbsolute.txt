@@ -1,0 +1,15 @@
+C:\Users\David Trusty\source\repos\C code\OOP\StaticAndPrivate\bin\Debug\net6.0\StaticAndPrivate.exe
+C:\Users\David Trusty\source\repos\C code\OOP\StaticAndPrivate\bin\Debug\net6.0\StaticAndPrivate.deps.json
+C:\Users\David Trusty\source\repos\C code\OOP\StaticAndPrivate\bin\Debug\net6.0\StaticAndPrivate.runtimeconfig.json
+C:\Users\David Trusty\source\repos\C code\OOP\StaticAndPrivate\bin\Debug\net6.0\StaticAndPrivate.dll
+C:\Users\David Trusty\source\repos\C code\OOP\StaticAndPrivate\bin\Debug\net6.0\StaticAndPrivate.pdb
+C:\Users\David Trusty\source\repos\C code\OOP\StaticAndPrivate\obj\Debug\net6.0\StaticAndPrivate.csproj.AssemblyReference.cache
+C:\Users\David Trusty\source\repos\C code\OOP\StaticAndPrivate\obj\Debug\net6.0\StaticAndPrivate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Trusty\source\repos\C code\OOP\StaticAndPrivate\obj\Debug\net6.0\StaticAndPrivate.AssemblyInfoInputs.cache
+C:\Users\David Trusty\source\repos\C code\OOP\StaticAndPrivate\obj\Debug\net6.0\StaticAndPrivate.AssemblyInfo.cs
+C:\Users\David Trusty\source\repos\C code\OOP\StaticAndPrivate\obj\Debug\net6.0\StaticAndPrivate.csproj.CoreCompileInputs.cache
+C:\Users\David Trusty\source\repos\C code\OOP\StaticAndPrivate\obj\Debug\net6.0\StaticAndPrivate.dll
+C:\Users\David Trusty\source\repos\C code\OOP\StaticAndPrivate\obj\Debug\net6.0\refint\StaticAndPrivate.dll
+C:\Users\David Trusty\source\repos\C code\OOP\StaticAndPrivate\obj\Debug\net6.0\StaticAndPrivate.pdb
+C:\Users\David Trusty\source\repos\C code\OOP\StaticAndPrivate\obj\Debug\net6.0\StaticAndPrivate.genruntimeconfig.cache
+C:\Users\David Trusty\source\repos\C code\OOP\StaticAndPrivate\obj\Debug\net6.0\ref\StaticAndPrivate.dll
